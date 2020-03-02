@@ -1,0 +1,28 @@
+[
+    {
+        "title":"Seus podcasts mais escutados",
+        "itens":[
+            {   
+                "photo":"https://i2.wp.com/sultanventures.com/wp-content/uploads/2018/04/Podcast-Thumbnail-Mic-Copy.jpg?w=2000&ssl=1",
+                "subtitle":{
+                "title":"Startup Catalyst",
+                "description":"Episódios de podcast escolhidos para você"
+                }
+            },{   
+                "photo":"https://images.squarespace-cdn.com/content/v1/5c59e40aca525b64b679f4da/1554101775167-44XROIIQCQ9RER67ZL26/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/Talking+Feds_Square+Podcast+Thumbnail.png?format=300w",
+                "subtitle":{
+                "title":"Talking feds",
+                "description":"Episódios de podcast escolhidos para você"
+                }
+            },{
+                "photo":"https://vignette.wikia.nocookie.net/jovem-nerd/images/c/c9/Logo.png/revision/latest?cb=20130210051003&path-prefix=pt-br",
+                "subtitle":{
+                    "title":"Nerdcast",
+                    "description":"Cultura Nerd vira piada no nerdcast"
+                    }
+            }
+        ]
+        
+        }
+    
+]

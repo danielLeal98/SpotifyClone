@@ -1,16 +1,17 @@
 import styled  from 'styled-components/native';
 
 export const Container = styled.View `
-    background-color: red;
+    padding: 5px 20px ;
 `;
 
 export const Title = styled.Text`
-color: #fff;
-font-size: 22px;
-font-weight: bold;
+    color: #fff;
+    font-size: 23px;
+    font-weight: bold;
 
 `;
 
 export const SlideScroll = styled.ScrollView.attrs({
-    showsHorizontalIndicator: false
+    showsHorizontalScrollIndicator: false,
+    horizontal:true,
 })``;
