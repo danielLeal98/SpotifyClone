@@ -22,5 +22,5 @@ Spotify layout made with React Native
   
   ## Where do you can learn ?
     
-    https://www.youtube.com/watch?v=EoVM12_yO1s&list=PLY67W0nk_3m9Yg8PW3Wz3JnT6VOrZ0Imz&index=8&t=0s
+  https://www.youtube.com/watch?v=EoVM12_yO1s&list=PLY67W0nk_3m9Yg8PW3Wz3JnT6VOrZ0Imz&index=8&t=0s"
     
