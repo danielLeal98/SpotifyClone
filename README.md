@@ -11,11 +11,11 @@ Spotify layout made with React Native
 <ul>
   <li>You can build applications Mobile with jsvaScript Stack. Its React Native</li>
  </ul>
- ## expo :
+ <h2> expo </h2>
  <ul>
   <li>See the changes in you smartphone, that is amazing. Has to app Store and Play Store</li>   
  </ul>
- ## Styled-components :
+ <h2> Styled-components : </h2>
  <ul>
   <li>Styles with variables and JavaScripts files.</li>
   </ul>
