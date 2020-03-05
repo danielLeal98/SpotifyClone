@@ -13,7 +13,7 @@ Spotify layout made with React Native
  </ul>
  <h2> expo </h2>
  <ul>
-  <li>See the changes in you smartphone, that is amazing. Has to app Store and Play Store</li>   
+  <li>See the changes in you smartphone, that is amazing. There are in app Store and Play Store</li>   
  </ul>
  <h2> Styled-components : </h2>
  <ul>
